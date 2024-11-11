@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84746ff5-3cb6-40f6-875e-a49dffd20d41" name="Changes" comment="Update README.md" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1729559716" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/WordManager.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nltO1EB4R0CMbl65b8JzV2jOWv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Maven.WordCRUD [package].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/min06/OneDrive/바탕 화면/민경빈/2학년2학기/웹 서비스 개발/Java/Web_Service_Development_Assignment/Project1-2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/min06/OneDrive/바탕 화면/민경빈/2학년2학기/웹 서비스 개발/Java/WordCRUD/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.customizations",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Project1-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Project1-1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84746ff5-3cb6-40f6-875e-a49dffd20d41" name="Changes" comment="" />
+      <created>1729559456166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729559456166</updated>
+      <workItem from="1729559457217" duration="5208000" />
+      <workItem from="1729565473800" duration="137000" />
+      <workItem from="1729565625267" duration="2538000" />
+      <workItem from="1729659491823" duration="158000" />
+      <workItem from="1729691043427" duration="1955000" />
+      <workItem from="1729731317640" duration="449000" />
+      <workItem from="1729736839422" duration="1535000" />
+      <workItem from="1729818112632" duration="4882000" />
+      <workItem from="1729934854590" duration="13444000" />
+      <workItem from="1730068031694" duration="2097000" />
+      <workItem from="1730079614528" duration="611000" />
+      <workItem from="1730104194310" duration="8000" />
+      <workItem from="1730163893345" duration="298000" />
+      <workItem from="1730177836065" duration="3145000" />
+      <workItem from="1730202160084" duration="3563000" />
+      <workItem from="1730234930305" duration="1655000" />
+      <workItem from="1730306277174" duration="9075000" />
+      <workItem from="1730842584448" duration="39000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit Test">
+      <option name="closed" value="true" />
+      <created>1729561902756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729561902756</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add README.md">
+      <option name="closed" value="true" />
+      <created>1729562619773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729562619773</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Word.java">
+      <option name="closed" value="true" />
+      <created>1729562632948</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729562632948</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit Test">
+      <option name="closed" value="true" />
+      <created>1729562645502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729562645502</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit Test">
+      <option name="closed" value="true" />
+      <created>1729562649263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729562649263</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Test Screenshot">
+      <option name="closed" value="true" />
+      <created>1729562941421</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729562941421</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729562997413</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729562997413</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729737337337</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737337337</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update Main.java">
+      <option name="closed" value="true" />
+      <created>1729737345371</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737345371</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update Word.java">
+      <option name="closed" value="true" />
+      <created>1729737356163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737356163</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update WordCRUD.java">
+      <option name="closed" value="true" />
+      <created>1729737371003</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737371003</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add WordManager.java">
+      <option name="closed" value="true" />
+      <created>1729737408266</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737408266</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add ICRUD.java">
+      <option name="closed" value="true" />
+      <created>1729737417112</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737417112</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add Screenshot2">
+      <option name="closed" value="true" />
+      <created>1729737427213</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737427213</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add Main.java">
+      <option name="closed" value="true" />
+      <created>1729737434035</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737434035</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update Main.java">
+      <option name="closed" value="true" />
+      <created>1729938129389</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1729938129389</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Update Word.java">
+      <option name="closed" value="true" />
+      <created>1729938142854</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729938142854</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Update WordCRUD.java">
+      <option name="closed" value="true" />
+      <created>1729938151021</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1729938151021</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Update WordManager.java">
+      <option name="closed" value="true" />
+      <created>1729938158758</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1729938158758</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add Screenshot">
+      <option name="closed" value="true" />
+      <created>1729946521292</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946521292</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Update WordCRUD.jaca">
+      <option name="closed" value="true" />
+      <created>1729946551257</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946551257</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update WordManager.java">
+      <option name="closed" value="true" />
+      <created>1729946558697</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946558697</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Commit xml">
+      <option name="closed" value="true" />
+      <created>1729946567576</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946567576</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add Text files">
+      <option name="closed" value="true" />
+      <created>1729946577124</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946577124</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Update xml">
+      <option name="closed" value="true" />
+      <created>1729947112213</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947112213</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729947121200</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947121200</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729947166457</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947166457</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729947399018</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947399018</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729947453971</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947453971</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729947490005</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947490005</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729947527322</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947527322</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Update README.md">
+      <option name="closed" value="true" />
+      <created>1729947559550</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1729947559550</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add README.md" />
+    <MESSAGE value="Add Word.java" />
+    <MESSAGE value="Commit Test" />
+    <MESSAGE value="Add Test Screenshot" />
+    <MESSAGE value="Add WordManager.java" />
+    <MESSAGE value="Add ICRUD.java" />
+    <MESSAGE value="Add Screenshot2" />
+    <MESSAGE value="Add Main.java" />
+    <MESSAGE value="Update Main.java" />
+    <MESSAGE value="Update Word.java" />
+    <MESSAGE value="Update WordCRUD.java" />
+    <MESSAGE value="Add Screenshot" />
+    <MESSAGE value="Update WordCRUD.jaca" />
+    <MESSAGE value="Update WordManager.java" />
+    <MESSAGE value="Commit xml" />
+    <MESSAGE value="Add Text files" />
+    <MESSAGE value="Update xml" />
+    <MESSAGE value="Update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update README.md" />
+  </component>
+</project>
