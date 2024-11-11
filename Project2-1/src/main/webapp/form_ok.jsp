@@ -1,25 +1,18 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: min06
-  Date: 2024-11-08
-  Time: 오전 3:56
-  To change this template use File | Settings | File Templates.
---%>
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<!DOCTYPE html>
-<html>
+<%@ page contentType="text/html; charset=UTF-8" language="java" %>
+<html lang="en">
 <head>
-    <title>Title</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Submission Result</title>
 </head>
 <body>
-<%
-    request.setCharacterEncoding("UTF-8");
-    String fname = request.getParameter("firstname");
-    String lname = request.getParameter("lastname");
-    String cname = request.getParameter("country");
-    out.println("이름 : " + fname + " " + lname + "<br />");
-    out.println("출신국 : " + cname + "<br />");
-%>
+<h2>Form Submission Result</h2>
 
+<p><strong>Name:</strong> ${param.name}</p>
+<p><strong>Email:</strong> ${param.email}</p>
+<p><strong>Age:</strong> ${param.age}</p>
+<p><strong>Message:</strong> ${param.message}</p>
+
+<p><a href="form.html">Go Back to Form</a></p>
 </body>
 </html>
